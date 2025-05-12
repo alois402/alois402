@@ -36,9 +36,9 @@ Welcome to my GitHub profile! I'm passionate about technology, problem-solving, 
 
 ## 📫 Let's Connect
 - **GitHub:** [alois402](https://github.com/alois402)
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Twitter:** [Your Twitter Handle](#)
-- **Email:** [Your Email Address](#)
+- **LinkedIn:** https://www.linkedin.com/in/alois-juma-062b87245/
+- **Facebook:** [Your Twitter Handle](#)
+- **Email:** jumabrian402@gmail.com
 
 ---
 
