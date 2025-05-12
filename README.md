@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm passionate about technology, problem-solving, 
 ---
 
 ## 🌟 About Me
-- 💼 **Profession:** Software Developer | Open Source Contributor
-- 🎓 **Education:** [Your Degree or Area of Study, if applicable]
-- 🌍 **Location:** [Your City or Region]
+- 💼 **Profession:** Software Developer | Open Source Contributor and business strategic planing and foresighting.
+- 🎓 **Education:** Bachelors degree in Environmental studies (community development) currently studying software engineering
+- 🌍 **Location:** Mombasa, Kenya
 - 💡 **Interests:** AI/ML, Web Development, DevOps, and Open Source Software
 
 ---
