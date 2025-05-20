@@ -43,8 +43,7 @@ Welcome to my GitHub profile! I'm passionate about technology, problem-solving, 
 ---
 
 ## 📝 Recent Projects
-- [**telefarm**](#): Revolutionizing Agricultural sector through automated workflow using smart agricultural solutions from real-time (monitoring and AI farm data analysis) to smart agricultural products and knowledge access.
-
+- [**telefarm**](#): Telefarm is a comprehensive platform designed to provide smart agricultural solutions to farmers. The application integrates e-commerce functionality for agricultural inputs, IoT device management for farm monitoring, AI-powered pest and disease detection, and training resources for farmers.
 ---
 
 ## 📜 Fun Facts:
