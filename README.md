@@ -43,9 +43,7 @@ Welcome to my GitHub profile! I'm passionate about technology, problem-solving, 
 ---
 
 ## 📝 Recent Projects
-- [**Project Name**](#): Brief description of what the project is about.
-- [**Another Project**](#): Another brief description.
-- [**One More Project**](#): Yet another project description.
+- [**telefarm**](#): Brief description of what the project is about.
 
 ---
 
