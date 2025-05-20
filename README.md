@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm passionate about technology, problem-solving, 
 ---
 
 ## 📝 Recent Projects
-- [**telefarm**](#): Brief description of what the project is about.
+- [**telefarm**](#): Revolutionizing Agricultural sector through automated workflow using smart agricultural solutions from real-time monitoring and farm data analysis to smart agricultural products and knowledge access.
 
 ---
 
