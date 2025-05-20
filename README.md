@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about technology, problem-solving, 
 ---
 
 ## 🛠️ Tools & Technologies
-- **Languages:** JavaScript,Java, HTML and React
+- **Languages:** Typescript, React, JavaScript,Java, and HTML
 - **Frameworks & Libraries:** React, Node.js, Django, [Add more]
 - **DevOps & Cloud:** Docker, Kubernetes, AWS, GitHub Actions
 - **Databases:** MySQL, MongoDB, PostgreSQL
